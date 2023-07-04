@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishwar</h1>
-<h3 align="center">Hello there! I'm Ishwar Kumar Mishra, a passionate and dedicated individual on a journey to become a proficient web developer and master the Python programming language. With a solid foundation in C, C++, and Java, I'm excited to expand my skill set and explore the vast possibilities offered by web development and Python.</h3>
+<h3 align="center">Hello there! I'm Ishwar Kumar Mishra, a passionate and dedicated individual on a journey to become a proficient web developer and master the Python programming language. With a solid foundation in C, C++, and Java, I'm excited to expand my skill set and explore the vast possibilities offered by web development and Python.<br>CV Website: <a href="https://ishwar-ikm.github.io/cv-website/" target="blank"><img align="center" src="https://raw.githubusercontent.com/ishwar-ikm/projects/main/favicon.ico" alt="ishwar_ikm" height="30" width="40" /></a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
