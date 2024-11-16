@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning the intricacies of **NodeJS, ReactJS**
 
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1e6c47JVJLscSyWh04DOgy88AZvkYdUqn/view?usp=drive_link)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1ccHQyYsTot4FnZhA5Zxa_8NeYEQaHaRc/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ishwar-ikm](https://github.com/ishwar-ikm)
 
